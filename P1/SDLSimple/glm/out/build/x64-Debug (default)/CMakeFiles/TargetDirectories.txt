@@ -1,0 +1,2 @@
+C:/Users/tiger/source/repos/SDLSimple/SDLSimple/glm/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/tiger/source/repos/SDLSimple/SDLSimple/glm/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
