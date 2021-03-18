@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj, Project2.vcxproj, SDLSimple.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\tiger\Documents\GitHub\CS3113\P3\SDLSimple\Entity.h(21,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tiger\Documents\GitHub\CS3113\P3\SDLSimple\Entity.h(22,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tiger\Documents\GitHub\CS3113\P3\SDLSimple\main.cpp(68,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tiger\Documents\GitHub\CS3113\P3\SDLSimple\main.cpp(171,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\tiger\Documents\GitHub\CS3113\P3\SDLSimple\main.cpp(172,35): warning C4305: '=': truncation from 'double' to 'float'
+  SDLSimple.vcxproj -> C:\Users\tiger\Documents\GitHub\CS3113\P3\Debug\Project3.exe
