@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj, Project2.vcxproj, Project3.vcxproj, Project4.vcxproj, SDLSimple.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\main.cpp(206,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\main.cpp(214,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\main.cpp(225,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SDLSimple.vcxproj -> C:\Users\tiger\Documents\GitHub\CS3113\P6\Debug\Project6.exe
