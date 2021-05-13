@@ -1,25 +1,5 @@
-﻿  Entity.cpp
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Entity.cpp(182,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-          with
-          [
-              T=float
-          ]
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Entity.cpp(183,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
-          with
-          [
-              T=float
-          ]
-  main.cpp
+﻿  main.cpp
 C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\main.cpp(206,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\main.cpp(214,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\main.cpp(225,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Map.cpp
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Map.cpp(89,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Map.cpp(90,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Map.cpp(108,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Map.cpp(109,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  ShaderProgram.cpp
-  Util.cpp
-C:\Users\tiger\Documents\GitHub\CS3113\P6\SDLSimple\Util.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
   SDLSimple.vcxproj -> C:\Users\tiger\Documents\GitHub\CS3113\P6\Debug\Project6.exe
