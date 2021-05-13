@@ -215,12 +215,7 @@ void Initialize() {
     state.enemies = new Entity[ENEMY_COUNT];
     GLuint enemyTextureID = LoadTexture("ctg.png");
 
-    state.enemies[0].textureID = enemyTextureID;
-    state.enemies[0].position = glm::vec3(1, -3, 0);
-    state.enemies[0].entityType = ENEMY;
-    state.enemies[0].speed = 1;
-    state.enemies[0].aiState = ATTACKING;
-    state.enemies[0].aiType = PATROLER;
+    z`  
 
     state.enemies[1].textureID = enemyTextureID;
     state.enemies[1].position = glm::vec3(-1, 5, 0);
